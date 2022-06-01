@@ -1,0 +1,21 @@
+.Static{
+    position :static;
+width: 200px;
+height: 200px;
+background-color:red;
+padding: 100px;
+margin: 2px;
+border: 40px;
+}
+.absolute{
+    position :absolute;
+    width: 200px;
+    height: 200px;
+}
+.box{display: inline-block;
+    height:160px;
+    width:100px;
+    background-color: red;
+    margin-top: 5px;
+
+}
